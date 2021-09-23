@@ -34,7 +34,7 @@ function UseEffect() {
             <h1>LETSGROWMORE</h1>
       </div>
           <div class="btn">
-            <button class="button" onClick={fetchData}>Send</button>
+            <button class="button" onClick={fetchData}>Get Users</button>
          <div class="loader">
            <div class="check">
                <span class="check-one"></span>
